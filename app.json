@@ -78,10 +78,6 @@
      "description": "A secret String for Mongodb Connection.(Required),change for better experience", 
      "value": "mongodb+srv://vajira:vajira@cluster0.hzwqrqq.mongodb.net/?retryWrites=true&w=majority" 
    }, 
-     "THEME": { 
-     "description": "මේ නම වෙනස් කරන්න එපා වෙනස් කලොත් වැඩ කරන්නෙ නෑ. ලබා ගත හැකි තේමාව වන්නෙ VAJIRA..", 
-      "value": "VAJIRA" 
-   }, 
      "WORKTYPE": { 
    "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.", 
           "value": "public" 
