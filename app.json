@@ -79,7 +79,7 @@
      "value": "mongodb+srv://vajira:vajira@cluster0.hzwqrqq.mongodb.net/?retryWrites=true&w=majority" 
    }, 
      "THEME": { 
-     "description": "ඔබට භාවිතා කිරීමට අවශ්‍ය Theme එක දමන්න. ලබා ගත හැකි තේමා are SECKTOR,ZEROTWO,NEZUKO,LUFFY,GOKU and many more..", 
+     "description": "ඔබට භාවිතා කිරීමට අවශ්‍ය Theme එක දමන්න. ලබා ගත හැකි තේමාව වන්නෙ VAJIRA..", 
       "value": "VAJIRA" 
    }, 
      "WORKTYPE": { 
