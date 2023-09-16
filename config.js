@@ -25,6 +25,7 @@ const fs = require('fs-extra')
    antibadword :  process.env.ANTI_BAD_WORD === undefined ? 'nbwoed' : process.env.ANTI_BAD_WORD, 
    alwaysonline:  process.env.ALWAYS_ONLINE === undefined ? false : process.env.ALWAYS_ONLINE,
 voice  :  process.env.AUTO_VOICE === undefined ? false : process.env.AUTO_VOICE, 
+sticker  :  process.env.AUTO_STICKER === undefined ? false : process.env.AUTO_STICKER,
    antifake : process.env.FAKE_COUNTRY_CODE === undefined ? '971' : process.env.FAKE_COUNTRY_CODE, 
    readmessage:  process.env.READ_MESSAGE === undefined ? false : process.env.READ_MESSAGE, 
    auto_status_saver: process.env.AUTO_STATUS_SAVER === undefined ? false : process.env.AUTO_STATUS_SAVER, 
