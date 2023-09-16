@@ -4,10 +4,10 @@
 ░█─── ░█─░█ ░█─░█ ░█▄▄█ ░█─░█ ─░█── ░█─░█ ── ░█──░█ ░█▄▄▀
 
 
-* @project_name PRABATH-MD
-* @author Prabath Kumara <https://github.com/prabathLK>
+* @project_name VAJIRA-MD
+* @author Vajira Rathnayaka <https://github.com/vajirabot1>
 * @description The main hope of creating this bot is to take full advantage of the WhatsApp app and make its work easier
-* @link <https://github.com/prabathLK/PRABATH-MD>
+* @link <https://github.com/vajirabot1/KING-VAJIRA-MD>
 * @version 1.0.0
 
 © 2023 Prabath Kumara, SACHI-BOT. All rights reserved.
